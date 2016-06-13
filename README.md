@@ -4,7 +4,7 @@ The purpose of this repository is to compile a list of resources and accessible 
 Projects
 ==
 
-Advising app (https://www.github.com/jschanker/molloy-advising-app): Currently written for 
+Advising app (https://github.com/jschanker/molloy-advising-web-application): Currently written for 
 
 Ruby Text2Code (https://www.github.com/jschanker/ruby-text2code): Project supported by Google grant
 
