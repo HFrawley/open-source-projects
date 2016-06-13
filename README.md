@@ -16,7 +16,7 @@ Resources
 ==
 **HTML/CSS**
 
-*Head First HTML and CSS* by Elisabeth Robson and Eric Freeman, O'Reilly Media; 2nd edition (September 8, 2012), ISBN-13: 978-0596159900 : A beginners book for learning HTML and JavaScript
+*Head First HTML and CSS* by Elisabeth Robson and Eric Freeman, O'Reilly Media; 2nd edition (September 8, 2012), ISBN-13: 978-0596159900 : A beginners book for learning HTML and CSS
 
 **JavaScript**
 
