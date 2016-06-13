@@ -5,8 +5,11 @@ Projects
 ==
 
 Advising app (https://www.github.com/jschanker/molloy-advising-app): Currently written for 
+
 Ruby Text2Code (https://www.github.com/jschanker/ruby-text2code): Project supported by Google grant
+
 Molloy Virtual World Scrabble
+
 Molloy Life App
 
 Resources
