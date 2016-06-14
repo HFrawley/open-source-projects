@@ -31,3 +31,9 @@ Resources
 *Eloquent JavaScript* (http://eloquentjavascript.net): A comprehensive free online book for learning JavaScript (includes the basics of Node.js)
 
 *Professional JavaScript for Web Developers* by Nicholas C. Zakas, Wrox; 3rd edition (January 18, 2012), ISBN-13: 978-1118026694 : Has helpful and terse explanation of prototype-based programming in JavaScript with diagrams. 
+
+**Interview Questions**
+
+https://github.com/kennyyu/workshop/blob/master/problems.pdf
+
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
