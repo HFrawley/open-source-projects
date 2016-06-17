@@ -30,10 +30,22 @@ Resources
 
 *Eloquent JavaScript* (http://eloquentjavascript.net): A comprehensive free online book for learning JavaScript (includes the basics of Node.js)
 
-*Professional JavaScript for Web Developers* by Nicholas C. Zakas, Wrox; 3rd edition (January 18, 2012), ISBN-13: 978-1118026694 : Has helpful and terse explanation of prototype-based programming in JavaScript with diagrams. 
+*Professional JavaScript for Web Developers* by Nicholas C. Zakas, Wrox; 3rd edition (January 18, 2012), ISBN-13: 978-1118026694 : Has helpful and terse explanation of prototype-based programming in JavaScript with diagrams.
+
+**C++**
+
+*The C++ Programming Language* by Bjarne Stroustrup, 4th Edition : Textbook written by the creator of C++ himself.
+
+*A Computer Science Tapestry* by Owen L. Astrachan, McGraw Hill, 2nd Edition (1999):  Book is now out of print and made freely available by its author at: https://www.cs.duke.edu/csed/tapestry/computersciencetapestry.pdf
 
 **Interview Questions**
 
 https://github.com/kennyyu/workshop/blob/master/problems.pdf
 
 https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+**Knowledge Areas**
+
+Google's Technical Development Guide: https://www.google.com/about/careers/students/guide-to-technical-development.html
+
+ACM Computer Science Curricula 2013: https://www.acm.org/education/CS2013-final-report.pdf
