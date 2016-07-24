@@ -18,6 +18,16 @@ Students are working on a new version of this in which they are cleaning up the 
 
 **Molloy Life App** (https://github.com/zach111694/molloyLife and https://github.com/MolloyLifeMedia/molloyLifeMedaBackend): The Molloy Life app aggregates data about on-campus student organizations, events, and other information of interest to Molloy students and displays it in a mobile friendly way.  See http://dev.molloylife.com.
 
+Popular Beginner Open Source Projects (not from Molloy)
+==
+From https://opensource.com/life/16/1/6-beginner-open-source :
+
+*Ava* (https://github.com/sindresorhus/ava/): JavaScript testing framework that can run tests concurrently using Node.js
+
+*Pinax* (https://github.com/pinax/pinax): "Pinax is an open-source platform built on the Django Web Framework. It is an ecosystem of reusable Django apps, themes, and starter project templates. This collection can be found at http://pinaxproject.com."  Django is a Python-based web framework.
+
+*Habitica* (https://github.com/HabitRPG/habitrpg): "Habitica is an open source habit building program which treats your life like a Role Playing Game. Level up as you succeed, lose HP as you fail, earn money to buy weapons and armor."
+
 Resources
 ==
 **HTML/CSS**
@@ -31,6 +41,8 @@ Resources
 *Eloquent JavaScript* (http://eloquentjavascript.net): A comprehensive free online book for learning JavaScript (includes the basics of Node.js)
 
 *Professional JavaScript for Web Developers* by Nicholas C. Zakas, Wrox; 3rd edition (January 18, 2012), ISBN-13: 978-1118026694 : Has helpful and terse explanation of prototype-based programming in JavaScript with diagrams.
+
+*Understanding ECMAScript 6* by Nicholas C. Zakas ("Content for the ebook" available at: https://github.com/nzakas/understandinges6): Comprehensive book on the awesome additions to JavaScript.
 
 **C++**
 
