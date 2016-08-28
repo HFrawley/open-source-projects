@@ -44,6 +44,14 @@ Resources
 
 *Understanding ECMAScript 6* by Nicholas C. Zakas ("Content for the ebook" available at: https://github.com/nzakas/understandinges6): Comprehensive book on the awesome additions to JavaScript.
 
+**Functional Programming**
+
+*Structure and Interpretation of Computer Programs Video Lecture Series* (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/): This MIT lecture series is from 1986, but it's still relevant and really good.  The professors use the Lisp programming language.
+
+*Learn You a Haskell for Great Good!* (http://learnyouahaskell.com/): A gentle introduction to Haskell, which is a pure functional programming language.
+
+*Real World OCaml* (https://realworldocaml.org/): A good book covering the language Ocaml, which is considered functional but also permits an imperative style of programming.
+
 **C++**
 
 *The C++ Programming Language* by Bjarne Stroustrup, 4th Edition : Textbook written by the creator of C++ himself.
