@@ -66,6 +66,8 @@ https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 **Knowledge Areas**
 
+NYC Tech Talent Pipeline Report: https://static1.squarespace.com/static/54d3a0dee4b026182d00678f/t/5811163c03596ed124325eb4/1477514814173/TTP+NYC+Industry+Insights.pdf Here's an excerpt from the report that I'm sure all of you can appreciate: "As part of this process, candidates must be able to demonstrate their ability to overcome frustration effectively. When one approach doesn’t work, rather than becoming despondent or giving up, strong candidates are able to take a step back, regroup, and try a different way."
+
 Google's Technical Development Guide: https://www.google.com/about/careers/students/guide-to-technical-development.html
 
 ACM Computer Science Curricula 2013: https://www.acm.org/education/CS2013-final-report.pdf
